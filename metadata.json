@@ -1,0 +1,6 @@
+{
+  "name": "FloodSense AI - Predictive Flood Intelligence & Emergency Response System",
+  "description": "Predict Early. Alert Faster. Respond Smarter. Real-time flood monitoring, AI-based risk prediction, time-to-flood estimation, what-if simulation, smart shelters, and evacuation routing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
